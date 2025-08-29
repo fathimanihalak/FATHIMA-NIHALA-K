@@ -33,9 +33,9 @@ My Data Science &  Analytics Portfolio | Python • SQL • Power BI • ML
  
 
 ## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fathima-nihala-k/)  
 - 🖥️ [GitHub](https://github.com/fathimanihalak)  
-- 📧 Email: yourmail@example.com  
+- 📧 Email: nihalaf9@gmail.com  
 
 ---
 ⭐️ Feel free to check out my repositories and connect with me!
