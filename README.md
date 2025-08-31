@@ -1,61 +1,59 @@
-FATHIMA-NIHALA-K
-My Data Science &  Analytics Portfolio | Python • SQL • Power BI • ML
+# 👩‍💻 Fathima Nihala K  
 
-# Hi, I'm Fathima Nihala 👋  
-
-🎓 MSc Computer Science (Specialization: Data Science)  
-💻 Passionate about Data Analytics, Machine Learning & Visualization  
-📊 Skilled in Python, SQL, Power BI,  and Flask,  
+🎯 **Aspiring Data Analyst | Postgraduate in Computer Science (Data Science)**  
+💡 Passionate about Data Analytics, Visualization, and Machine Learning  
 
 ---
 
-## 🔹 About Me  
-- 🎯 Fresh graduate in Data Science with hands-on internship experience  
-- 💡 Passion for turning raw data into clear business insights  
-- 📈 Worked on real-world projects involving Power BI dashboards, API data pipelines, and web-based applications  
-- 🌱 Currently enhancing skills in full-stack development and advanced analytics  
+## 🚀 About Me  
+- 📊 Skilled in **Python, SQL, Power BI, and Machine Learning**  
+- 🖥️ Experienced in **data visualization, preprocessing, and dashboard design**  
+- 🎯 Interested in **Data Science, Business Analytics, and AI applications**  
+- 🌱 Currently learning advanced ML and improving my portfolio projects  
 
 ---
 
-## 🔹 Projects  
-
-### 1. [Power BI Dashboards](https://github.com/fathimanihalak/PowerBI-Dashboards)  
-- Employee Performance, Employee Analysis (Kaggle), and Sales Analysis dashboards  
-- Cleaned and modeled datasets using **Power Query & DAX**  
-- Interactive visuals with KPIs and slicers  
-
----
-
-### 2. [Python Visualization Projects](https://github.com/fathimanihalak/Python-Visualization)  
-- B2B Customer Behavior Analysis using Pandas, Matplotlib, and Seaborn  
-- Postpartum Dataset Visualization with EDA & pattern discovery  
-- Histograms, bar charts, heatmaps, and line graphs  
+## 🛠️ Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Machine Learning:** Scikit-learn, YOLOv5, Tesseract OCR  
+- **Other Tools:** GitHub, Jupyter Notebook, Excel  
 
 ---
 
-### 3. [Onzitr Dashboard – API Complaint Analysis](https://github.com/fathimanihalak/Onzitr-Dashboard)  
-- Integrated API data using Python (`requests`, `pandas`, `json_normalize`)  
-- Interactive Power BI dashboards for complaint tracking  
-- Features: Complaint volume, resolution time, and trends  
+## 📂 Featured Projects  
+
+### 🔹 [PowerBI-Dashboards](https://github.com/fathimanihalak/PowerBI-Dashboards)  
+📊 Interactive dashboards for **sales, employee performance, and HR analytics**.  
+- Data Cleaning & Transformation  
+- DAX Calculations & KPIs  
+- Insights on **revenue trends, employee retention, and business performance**  
 
 ---
 
-### 4. [MamaMind – Postpartum Depression Support App](https://github.com/fathimanihalak/MamaMind-App)  
-- Flask-based app for screening postpartum depression (**EPDS scale**)  
-- Frontend: HTML, CSS, Bootstrap, Chart.js  
-- Backend: Flask with questionnaire scoring logic  
-- Provides recovery suggestions, motivational content, yoga tips, and family guidance  
+### 🔹 [License-Plate-Detection-OCR](https://github.com/fathimanihalak/License-Plate-Detection-OCR)  
+🚘 Computer vision project for **automatic license plate detection & text recognition**.  
+- **YOLOv5** for license plate detection  
+- **Tesseract OCR** for alphanumeric recognition  
+- Real-world use in **traffic monitoring & automation**  
 
 ---
 
-### 5. [🚘 License Plate Detection & OCR](https://github.com/fathimanihalak/License-Plate-OCR)  
-- End-to-end license plate detection and recognition pipeline  
-- **YOLOv5** for object detection and **Tesseract OCR** for text extraction  
-- Python, OpenCV, NumPy, Pandas  
-- Includes dataset preparation, model training, OCR, and results visualization  
+### 🔹 [MamaMind-App](https://github.com/fathimanihalak/MamaMind-App)  
+💙 A web application to **assess and support postpartum depression recovery**.  
+- Questionnaire-based depression scoring  
+- Recovery suggestions (videos, yoga, consultation)  
+- Built with **Flask + HTML + CSS**  
 
 ---
- 
+
+### 🔹 [Python Visualization Projects](https://github.com/fathimanihalak/python-visualization)  
+📈 Python projects on **data preprocessing and visualization**.  
+- Pandas, NumPy for data cleaning  
+- Matplotlib, Seaborn for visualization  
+- B2B dataset exploration  
+
+---
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/fathima-nihala-k/)  
