@@ -1,4 +1,6 @@
 # 👩‍💻 Fathima Nihala K  
+Data Science & Analytics Portfolio
+---
 
 🎯 **Aspiring Data Analyst | Postgraduate in Computer Science (Data Science)**  
 💡 Passionate about Data Analytics, Visualization, and Machine Learning  
