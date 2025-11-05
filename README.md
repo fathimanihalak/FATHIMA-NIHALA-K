@@ -55,7 +55,7 @@
 
 ---
 
-### 🔹 [Certifications & Courses]
+## 📂 Certifications & Courses
 GenAI Powered Data Analytics Job Simulation Jun 2025
 - Tata Group (Forage)
 • Applied Generative AI for predictive analytics and business strategy simulation.
