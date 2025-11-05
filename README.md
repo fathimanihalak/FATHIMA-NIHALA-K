@@ -51,9 +51,18 @@
 📈 Python projects on **data preprocessing and visualization**.  
 - Pandas, NumPy for data cleaning  
 - Matplotlib, Seaborn for visualization  
-- B2B dataset exploration  
+- B2B dataset exploration
 
 ---
+
+### 🔹 [Certifications & Courses]
+GenAI Powered Data Analytics Job Simulation Jun 2025
+- Tata Group (Forage)
+• Applied Generative AI for predictive analytics and business strategy simulation.
+• Completed projects on trend forecasting, visualization, and stakeholder-oriented reporting.
+- NPTEL — Cloud Computing, Social Network Analysis, Business Intelligence & Analytics, IoT
+- Forage — GenAI Powered Data Analytics (Tata), Data Visualization Virtual Internship
+- Workshops — NLP for Generative AI, Advanced Data Science & Cybersecurity (RGNIYD)
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/fathima-nihala-k/)  
