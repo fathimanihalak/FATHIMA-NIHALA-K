@@ -22,6 +22,27 @@
 ---
 
 ## 📂 Featured Projects  
+🛍️ Customer Behaviour Analysis
+
+A data cleaning & analytics project using Python, SQL Server, and Power BI
+
+📌 Project Overview
+
+This project analyzes customer purchasing behavior to uncover insights related to spending patterns, discounts, product trends, and subscriptions.
+The workflow includes:
+✅ Data Cleaning (Python)
+✅ Exploratory Data Analysis (SQL)
+✅ Data Visualization (Power BI)
+
+The final outcome helps understand buying habits and support data-driven business decisions.
+| Tool       | Purpose                              |
+| ---------- | ------------------------------------ |
+| Python     | Data Cleaning                        |
+| Pandas     | Handling missing / inconsistent data |
+| SQL Server | Querying & analysis                  |
+| Power BI   | Dashboard & Visualization            |
+
+
 
 ### 🔹 [PowerBI-Dashboards](https://github.com/fathimanihalak/PowerBI-Dashboards)  
 📊 Interactive dashboards for **sales, employee performance, and HR analytics**.  
