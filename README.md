@@ -42,6 +42,7 @@ The final outcome helps understand buying habits and support data-driven busines
 | SQL Server | Querying & analysis                  |
 | Power BI   | Dashboard & Visualization            |
 
+---
 
 
 ### 🔹 [PowerBI-Dashboards](https://github.com/fathimanihalak/PowerBI-Dashboards)  
