@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Featured Projects  
-🛍️ Customer Behaviour Analysis
+###🔹[Customer Behaviour Analysis].(
 
 A data cleaning & analytics project using Python, SQL Server, and Power BI
 
